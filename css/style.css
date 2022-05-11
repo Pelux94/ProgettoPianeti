@@ -1,0 +1,50 @@
+.sfondo-giallo{
+    background-color: rgb(249, 249, 40);
+}
+
+.sfondo-grigio{
+    background-color: rgba(190, 190, 190, 0.871);
+}
+
+.sfondo-giallino{
+    background-color: rgb(254, 254, 193);
+}
+
+p,h1, table{
+    text-align: center;
+}
+
+td{
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
+
+th{
+    border: 1px solid white;
+}
+
+table{
+    display: table;
+    margin: auto;
+}
+
+.a1{
+    border-top-left-radius: 10px;
+}
+.a2{
+    border-bottom-left-radius: 10px;
+}
+.a3{
+    border-top-right-radius: 10px;
+}
+.a4{
+    border-bottom-right-radius: 10px;
+}
+
+.no-bordo{
+    border-collapse: collapse;
+}
+
+.table{
+    border-spacing: 0px;
+}
